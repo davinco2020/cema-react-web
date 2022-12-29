@@ -23,11 +23,27 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.bg-c-light{
+  background-color: #f2f2f2;
+  padding-top: 23px;
+}
+.img-head{
+  height: 690px;
+}
+.underline{
+  width:04rem;
+  height: 04px;
+  background-color: #f76c2f;
+  margin-top: 10px;
+  margin-bottom: 10px;
+vertical-align: baseline;
+text-align: center;
+}
 .App-link {
   color: #61dafb;
 }
-
+.services{text-align: left;}
+h3{color:red;}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
